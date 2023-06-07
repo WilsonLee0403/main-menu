@@ -1,0 +1,51 @@
+h1{
+    font-size: 5rem;
+    text-align: top;
+    text-align: center;
+    font: bold;
+    font-style: Anton;
+    color: white;
+    text-decoration: underline;
+}
+body{
+    background-color: cornflowerblue ;
+}
+img{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+button{
+    display: flex;
+    margin:0 auto;
+    align-items:center;
+    size: 2rem;
+    font-style: Anton;
+    font: bold;
+    color: white;
+    text-align: top;
+      background-color:rgb(95, 174, 206) ; /* Green */
+  border: none;
+  color: white;
+  padding: 30px 80px;
+  font-size: 25px;
+  margin-top: 20mm;
+}
+#yt{
+    display: flex;
+    margin:0 auto;
+    align-items:center;
+    size: 2rem;
+    font-style: Anton;
+    font: bold;
+    color: white;
+    text-align: top;
+      background-color:rgb(95, 174, 206) ; /* Green */
+  border: none;
+  color: white;
+  padding: 32px 68px;
+  font-size: 20px;
+  margin-top: 20mm; 
+}
