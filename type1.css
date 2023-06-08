@@ -45,7 +45,43 @@ button{
       background-color:rgb(95, 174, 206) ; /* Green */
   border: none;
   color: white;
-  padding: 32px 68px;
+  padding: 40px 68px;
   font-size: 20px;
   margin-top: 20mm; 
+}
+
+#contact{
+     display: flex;
+    margin:0 auto;
+    align-items:center;
+    size: 2rem;
+    font-style: Anton;
+    font: bold;
+    color: white;
+    text-align: top;
+      background-color:rgb(95, 174, 206) ; /* Green */
+  border: none;
+  color: white;
+  padding: 30px 70px;
+  font-size: 25px;
+  margin-top: 20mm;  
+}
+
+#end{
+  margin-top: 250mm;
+  font-size: 5rem;
+  text-align: top;
+  text-align: center;
+  font: bold;
+  font-style: Anton;
+  color: black ;
+}
+div{
+  margin-top: 2px;
+  font-size: 5rem;
+  text-align: top;
+  text-align: center;
+  font: bold;
+  font-style: Anton;
+  color: black ;
 }
