@@ -3,12 +3,12 @@ h1{
     text-align: top;
     text-align: center;
     font: bold;
-    font-style: Anton;
+    font-style: bold;
     color: white;
     text-decoration: underline;
 }
 body{
-    background-color: cornflowerblue ;
+  background-image: url("https://scontent.fsgn6-2.fna.fbcdn.net/v/t39.30808-6/277131049_361576455863695_2391171769045898924_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4efYgqjc7jEAX_vdi-T&_nc_ht=scontent.fsgn6-2.fna&oh=00_AfCrNn5hAwLLJtgvBfwVc0V7uN6YqvpQU-8ybBZjGjEmOA&oe=6487BDBC");
 }
 img{
       display: block;
